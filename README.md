@@ -1,2 +1,5 @@
 This is website about touristic places in Kyrgyzstan. In our website we provide our services. (Ruslan agay is the best)
-![alt text](screenshots/screen name.png)
+![alt text](screenshots/ab.png)
+![alt text](screenshots/ac.png)
+![alt text](screenshots/ad.png)
+![alt text](screenshots/ae.png)
